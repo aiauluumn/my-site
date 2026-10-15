@@ -63,3 +63,10 @@ body {
 .section ul {
     padding-left: 1.5rem;
 }
+
+.site-footer {
+    padding: 1.5rem 2rem;
+    background: #1e2a44;
+    color: #fff;
+    text-align: center;
+}
